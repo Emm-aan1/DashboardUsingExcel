@@ -1,5 +1,3 @@
-# DashboardUsingExcel
-
 # **Sales Performance Dashboard**
 
 ## **Overview**
