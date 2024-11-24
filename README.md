@@ -1,5 +1,7 @@
 # **Sales Performance Dashboard**
 
+![dashboard](https://github.com/user-attachments/assets/a9571b27-3bae-4120-8950-0905eadf75de)
+
 ## **Overview**
 This dashboard was created using Microsoft Excel to provide a comprehensive view of sales performance over a defined time period. It presents key metrics and visualizations to help stakeholders easily monitor trends, analyze profitability, and identify areas for improvement. 
 
